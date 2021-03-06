@@ -56,12 +56,15 @@ On a (AB) // (A'B'). Donc (A'B') // (CD).
 Donc dans OCD, o a B' \in [OC], A' \in [OD] et (A'B') // (CD).\
 Donc d'après le théorème de Thalès :
 
-![\Large \frac{OA'}{OD} = \frac{OB}{OC}](https://latex.codecogs.com/svg.latex?\Large&space;\fra{OA'}{OD}=\frac{OB}{OC}=\frac{A'B'}{CD})
+```
+OA' / OD = OB / OC = A'B' / CD
+```
 
 Or OA' = OA, OB' =  OB et A'B' = AB (car symétries centrales conservent les longueurs)\
 D'où,
-![\Large \frac{OA'}{OD} = \frac{OB}{OC}](https://latex.codecogs.com/svg.latex?\Large&space;\fra{OA}{OD}=\frac{OB}{OC}=\frac{AB}{CD})
-
+```
+OA / OD = OB / OC = AB / CD
+```
 
 
 ## Exercices
@@ -73,34 +76,28 @@ D'où,
 Antonin visite un château entouré de douves. Il veut connaître leur profondeur. Pour cela, il recule sur un pont jusqu'à ce que le fond F des douves, le pilier P du pont et ses yeux Y soient alignés. Il est alors à 1,20 m du pilier P. Déterminer la profondeur des douves de ce château.
 
 
-___
 #### Correction
 On sait que les droites (AC) et (FY) sont sécantes en P et que (AF) // (YC), donc, d'après le théorème de Thalès, on a :
 
-![\Large \frac{PA}{PC} = \frac{PF}{PY}](https://latex.codecogs.com/svg.latex?\Large&space;\frac{PA}{PC}=\frac{PF}{PY}=\frac{AF}{YC})
+![\Large \frac{PA}{PC} = \frac{PF}{PY} = \frac{AF}{YC}](https://latex.codecogs.com/svg.latex?\Large&space;\frac{PA}{PC}=\frac{PF}{PY}=\frac{AF}{YC})
 
 ![\Large \frac{PA}{PC} = \frac{PF}{PY}](https://latex.codecogs.com/svg.latex?\Large&space;AF=YC\times\frac{AP}{PC}=1,5\times\frac{7}{1,2}=8,75)
 
-
-
-
-
-
-
+___
 
 ### Exercice 2 (extrait du brevet)
 Question 3 hors programme.
 
 ![Papillon](https://maths-pdf.fr/ckfinder/userfiles/images/brevet-thales-pyt-2018-2018.png)
 
-___
-
 #### Indices
-Q1 :  réciproque de Py*****
+Q1 :  réciproque de Py*****\
 Q2 :
 
 #### Correction
 
+(à compléter)
+___
 
 
 
@@ -109,7 +106,10 @@ Q2 :
 ![Table à repasser](https://maths-pdf.fr/ckfinder/userfiles/images/ex-22-table-repasser.PNG)
 
 
+#### Indices
+Utiliser la réciproque du théorème de Thalès.
 
+___
 
 ### Exercice 4
 
@@ -146,6 +146,11 @@ On note x la longueur BD.\
 
 ___
 #### Correction
+
+
+(à compléter)
+
+
 
 
 ### Encore plus d'exos
